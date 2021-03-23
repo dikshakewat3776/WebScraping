@@ -1,4 +1,6 @@
-# WebScraping and e-commerce website 
+# WebScraping 
+
+Webscraping an e-commerce website using scrapy to fetch necklace Sets information
 
 1. Create a virtual environment:
       
